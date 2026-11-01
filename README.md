@@ -91,6 +91,9 @@ Built for the AI Alpha & Data track with [Nikolas Sapalidis](https://github.com/
 
 ---
 
+Earlier I built two landing pages with Supabase waitlists for an AI LinkedIn reviewer, [LinkSense AI](https://github.com/geo0apostolakis/LinkSense-AI) and [FixMyLinkedIn](https://github.com/geo0apostolakis/FixMyLinkedIn).
+
+
 ```text
 $ cat how-i-build.txt
   agents   Claude Code with my own skills; several agents on one repo in parallel
