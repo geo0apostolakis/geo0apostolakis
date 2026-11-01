@@ -26,7 +26,8 @@ I'm 15 and I live in Athens. I build AI software and web products end to end, an
 My own finance dashboard. Bank, brokerage, cash and crypto in any currency, converted with live FX into one net-worth line. Revolut syncs through Open Banking, broker positions through the Freedom24 API, and watch-only wallets are read straight from public RPCs on Bitcoin, Solana and eight EVM chains, with no key that can move money.
 
 ```bash
-git clone https://github.com/geo0apostolakis/networth-tracker && cd networth-tracker && npm install && npm run dev
+git clone https://github.com/geo0apostolakis/networth-tracker
+cd networth-tracker && npm install && npm run dev
 ```
 
 Card statements from a PDF become a ledger · spending rules by merchant · a wallet map that flags address-poisoning lookalikes · passkey login, a one-tap mode that hides every figure, and several skins over the same data.
